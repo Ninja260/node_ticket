@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Environment configuration
+.env
+
+# Logs
+logs/
+*.log
+
+# Build output
+build/
+dist/
+
+# Development server
+dev-server.js
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
